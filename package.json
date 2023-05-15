@@ -1,0 +1,19 @@
+{
+  "name": "library-poc",
+  "version": "1.0.0",
+  "description": "Prueba de concepto de subir libreria a NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emanuelbalcazar/library-poc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emanuelbalcazar/library-poc/issues"
+  },
+  "homepage": "https://github.com/emanuelbalcazar/library-poc#readme"
+}
