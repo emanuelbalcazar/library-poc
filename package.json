@@ -1,6 +1,6 @@
 {
   "name": "library-poc-claro",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Prueba de concepto de subir libreria a NPM",
   "main": "index.js",
   "scripts": {
