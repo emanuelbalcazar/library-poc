@@ -1,5 +1,5 @@
 {
-  "name": "library-poc",
+  "name": "library-poc-claro",
   "version": "1.0.0",
   "description": "Prueba de concepto de subir libreria a NPM",
   "main": "index.js",
