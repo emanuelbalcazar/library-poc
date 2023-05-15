@@ -1,5 +1,7 @@
-const ruben = require('./functions/ruben');
+const ruben = require("./functions/ruben");
+const juli = require("./functions/juli");
 
 module.exports = {
-    ruben
+  ruben,
+  juli,
 };
